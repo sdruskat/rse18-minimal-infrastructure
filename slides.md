@@ -185,7 +185,7 @@ We have funding from DFG for 3 years, classic setup
 
 # Resources
 
-- More detailed blog post: tba
+- Blog post: tba
 
 Note:
 Blog post!
