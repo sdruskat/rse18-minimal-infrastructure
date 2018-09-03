@@ -169,12 +169,14 @@ Note:
 
 # What will we have learned (ideally)?
 
-#### - Sustainable, re-usable software
-#### - Requirements for sustainable maintenance
-#### - ... for researcher training
-#### - ... for practices recommendations for RSEs
+### - Sustainable, re-usable software
+### - Requirements for sustainable maintenance
+### - Evidence for making a case for RSE teams!
 
-## - Evidence for making a case for RSE teams!
+Note:
+- ... for researcher training
+- ... for practices recommendations for RSEs
+
 
 
 
