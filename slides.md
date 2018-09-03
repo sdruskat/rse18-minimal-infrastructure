@@ -7,7 +7,7 @@ Third Conference of Research Software Engineers, University of Birmingham, Birmi
 Slides: https://sdruskat.net/rse18-minimal-infrastructure/  
 
 Note:
-Okay, notes work! 3 blank lines = left, 2 blank lines = down.
+Naiveté, regression, despair
 
 
 ## Who we are
@@ -26,7 +26,7 @@ ORCID [0000-0003-3731-2422](https://orcid.org/0000-0003-3731-2422), krauseto@hu-
 
 
 
-## "Emergency" strategy for research projects that produce software but don't have access to a centralized RSE team, to make their software sustainable/re-usable
+### "Emergency" strategy for research projects that produce software but don't have access to a centralized RSE team, to make their software sustainable/re-usable
 
 
 
@@ -91,32 +91,38 @@ We have funding from DFG for 3 years, classic setup
 
 # Infrastructure what infrastructure?
 
-## - Use the free stuff that's there
-## - Implement an actual maintenance role
+### - Use the free stuff that's there
+### - Make sure you can exchange tools if necessary
+### - Implement an actual maintenance role
 
 
 # Minimal infrastructure components
 
-## 1. Source Code Repo Platform
-#### - Code, docs, issues, landing page
-
-## 2. Release & Deposit Repo
-#### - Zenodo
-
-## 3. Dependencies Repo
-#### - Ecosystem-dependent, e.g., Maven Central, PyPI, ...
-
-## 4. Maintainer
+<img src="puzzle.png" style="width: 40%;">
 
 
-## Maintainers, maintainers, maintainers, ...
+# Component functions
 
-### - Hire (and train!) a student
+Component          | Function
+------------- | ------------- | ---------
+Source code repo platform        |  Host code, docs, issues, landing page
+Release & deposit repo      | Long-term availability of artifacts, Version/citation metadata
+Dependencies repo | Reproducible dependency graphs
+Maintainer | Integrate, test, release, communicate, manage infrastructure, document/meta-document
+
+
+## "Maintainers, maintainers, maintainers, ..."
+
+<img src="ballmer.png" style="height: 50%;">
+
+### - Incur cost, so hire (and train!) a student assistant
 ### - 10 hours / week should be enough in the long run
-#### - integration, release and testing workflows
-#### - communication with users and contributors
-#### - manages, maintains, substitutes infrastructure components
-#### - documents infrastructural decisions, builds, releases, maintainer changes, ... 
+
+Note:
+- integration, release and testing workflows
+- communication with users and contributors
+- manages, maintains, substitutes infrastructure components
+- documents infrastructural decisions, builds, releases, maintainer changes, ... 
 
 
 
@@ -137,9 +143,10 @@ We have funding from DFG for 3 years, classic setup
 
 # Infrastructure sustainability
 
-### - GitHub > Software Heritage (alt.: GitLab, Bitbucket, etc.)
+### - GitHub > Software Heritage
 ### - Zenodo (long-term strategy)
-### - Dependency repos: system-critical, foundation-funded, Software Heritage
+### - Dependency repos: system-critical, foundations, Software Heritage
+### - (Plan for hot-swapping)
 
 
 # Maintainers
@@ -148,14 +155,16 @@ We have funding from DFG for 3 years, classic setup
 ### - 4 maintainership changes during project
 
 
-# Document all the things!
+# Document! All! The! Things!
+
+<img src="doc.png" style="width: 80%;">
 
 
 
 # What have we learned?
 
-### - Minimal requirements for technically sustainable software
-### - Minimal infrastructure for sustainable software development
+### - Minimal requirements for technically sustainable software (?)
+### - Minimal infrastructure for sustainable software development (?)
 
 
 # What will we have learned (ideally)?
@@ -176,17 +185,8 @@ We have funding from DFG for 3 years, classic setup
 
 **The Software Sustainability Institute** for funding assistance (EPSRC, BBSRC, ESRC Grant EP/N006410/1)
 
-**Project funding:** DFG grant GA 1288/11 ("Sustainability of research software")
+**Project funding:** DFG grant GA 1288/11 ("Research software sustainability")
 
 ![](ssi.png) 
 
 ![](dfg.png)
-
-
-
-# Resources
-
-- Blog post: tba
-
-Note:
-Blog post!
