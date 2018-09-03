@@ -54,7 +54,7 @@ RSE team that will still be around when the project won't be, and takes care of 
 <h2 style="color:lightgray;"> (quite literally, in a new project from October 2018)</h2>
 
 
-# Despair > strategy
+# We need a strategy allowing us to ...
 
 #### - Create sustainable research software within project runtime
 #### - Determine requirements for sustainable maintenance
