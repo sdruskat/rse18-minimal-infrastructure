@@ -42,6 +42,7 @@ For every new research project (3 yrs. on average) there's a new person hired to
 # Where we want to be
 
 ### 1. New project = new funding for work hours from a (centralized) RSE team
+### 2. Sustainable/re-usable software
 
 Note:
 RSE team that will still be around when the project won't be, and takes care of the software
