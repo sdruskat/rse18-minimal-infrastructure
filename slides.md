@@ -68,7 +68,7 @@ We have funding from DFG for 3 years, classic setup
 
 # Strategy
 
-## More like "strategy": make do
+## "make do"
 ### - Stick to best practices
 ### - Run project as an open source project
 <br/>
