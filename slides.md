@@ -165,7 +165,7 @@ We have funding from DFG for 3 years, classic setup
 #### - ... for researcher training
 #### - ... for practices recommendations for RSEs
 
-## - Evidence for making the case for RSE teams!
+## - Evidence for making a case for RSE teams!
 
 
 
