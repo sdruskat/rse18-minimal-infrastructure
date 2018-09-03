@@ -58,8 +58,6 @@ RSE team that will still be around when the project won't be, and takes care of 
 
 #### - Create sustainable research software within project runtime
 #### - Determine requirements for sustainable maintenance
-#### - ... to be used in researcher training (Software Carpentry?)
-#### - ... and practices recommendations for RSEs
 #### - Create evidence for making a case for installation of RSE teams
 
 Note:
