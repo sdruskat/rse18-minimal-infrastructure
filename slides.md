@@ -29,34 +29,26 @@ ORCID [0000-0003-3731-2422](https://orcid.org/0000-0003-3731-2422), krauseto@hu-
 ### "Emergency" strategy for research projects that produce software but don't have access to a centralized RSE team, to make their software sustainable/re-usable
 
 
+# What we do
 
-# Where we are now
-
-### 1. New project = new person developing software 
-<h3 class="fragment">2. ???</h3>
+<img src="annis.png" style="width:40%"><img src="atomic.png" style="width:40%">
 
 Note:
 For every new research project (3 yrs. on average) there's a new person hired to develop software that enables or supports the project's research.
 
 
-# Where we want to be
-
-### 1. New project = new funding for work hours from a (centralized) RSE team
-### 2. Sustainable/re-usable software
-
-Note:
-RSE team that will still be around when the project won't be, and takes care of the software
-
-
 <!-- .slide: data-background="black" -->
-<h1 style="color:lightgray;">But we're still here</h1>
+<h1 style="color:lightgray;">What if we're not there anymore?</h1>
 
-<h2 style="color:lightgray;"> (quite literally, in a new project from October 2018)</h2>
+<h2 style="color:lightgray;">No RSE team anywhere to take care of sustainability</h2>
 
 
-# We need a strategy allowing us to ...
+# We need a strategy allowing everyone to ...
 
 #### - Create sustainable research software within project runtime
+
+### "Side effects"
+
 #### - Determine requirements for sustainable maintenance
 #### - Create evidence for making a case for installation of RSE teams
 
@@ -77,7 +69,7 @@ We have funding from DFG for 3 years, classic setup
 
 # Building blocks
 
-### - Engineer software for re-usability (minimally)
+### - Engineer software for (some degree of) re-usability
 ### - Let infrastructure do the rest
 
 
@@ -159,7 +151,7 @@ Note:
 
 
 
-# What have we learned?
+# Conclusion
 
 ### - Minimal requirements for technically sustainable software (?)
 ### - Minimal infrastructure for sustainable software development (?)
